@@ -9,5 +9,3 @@ Após a configuração adequada da AWS cli e terraform, segue os comandos necess
 Não esqueça de desligar a sua infraestrutura para não gerar cobrança.
 
 <p align="center">terraform destroy</p>
-
-Use com sabedoria =D
