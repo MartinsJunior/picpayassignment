@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "clean_pp_ass_ex" {
-  bucket = "clean-pp-ass"
+  bucket = "clean-pp-as"
   acl    = "public-read"
 }
 
